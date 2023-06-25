@@ -2,6 +2,8 @@
 Final Project Purwadhika:
 https://github.com/PurwadhikaDev?tab=repositories
 
+Final Project Certification: https://drive.google.com/file/d/1dWbXDXdX_nyYySHqAxkukW0m18nqL_Iv/view?usp=sharing
+
 # Dashboard
 Google Looker Studio: https://lookerstudio.google.com/reporting/e19a8dff-8f8f-4cf3-bb56-c8f1e8437fad
 
